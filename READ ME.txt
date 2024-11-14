@@ -1,0 +1,4 @@
+						
+Akun Manajer	Akun Atasan	Akun Kepegawaian	
+user : manajer	user : atasan	user : pegawai		
+pass : manajer	pass : atasan	pass : pegawai		
